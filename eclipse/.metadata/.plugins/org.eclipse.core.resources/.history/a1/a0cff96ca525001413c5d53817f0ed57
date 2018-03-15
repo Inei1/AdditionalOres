@@ -1,7 +1,0 @@
-package inei.additionalores.blocks.machines;
-
-import net.minecraft.block.Block;
-
-public class MachineFrame extends Block {
-
-}
