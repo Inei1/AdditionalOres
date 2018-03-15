@@ -1,0 +1,28 @@
+package inei.additionalores;
+
+import net.minecraft.item.ItemStack;
+import net.minecraftforge.oredict.OreDictionary;
+import inei.additionalores.handler.RecipeHandler;
+
+public class OreDict {
+	
+	ItemStack Weakium = new ItemStack(AdditionalOres.itemWeakiumIngot);
+	ItemStack Purple = new ItemStack(AdditionalOres.itemPurpliniumIngot);
+	ItemStack Oreite = new ItemStack(AdditionalOres.itemOreiteIngot);
+	ItemStack Softium = new ItemStack(AdditionalOres.itemSoftiumIngot);
+	ItemStack Gemium = new ItemStack(AdditionalOres.itemGemium);
+	ItemStack Bagellium = new ItemStack(AdditionalOres.itemBagelliumIngot);
+	ItemStack Cakium = new ItemStack(AdditionalOres.itemCakiumIngot);
+	ItemStack Pig = new ItemStack(AdditionalOres.itemPigoliumIngot);
+	ItemStack Medium = new ItemStack(AdditionalOres.itemMediumIngot);
+	ItemStack NetherStar = new ItemStack(AdditionalOres.itemNetherStarIngot);
+
+	{
+	
+	for(ItemStack ore : OreDictionary.getOres("ingotWeakiumIngot")) { 
+ 			RecipeHandler.addOreCompressorRecipe(Utils.size(Weakium, 4), Purple); 
+ 		} 
+
+
+}
+}

@@ -1,0 +1,79 @@
+item.WeakiumIngot.name=Weakium Ingot
+item.PurpliniumIngot.name=Purplinium Ingot
+item.OreiteIngot.name=Oreite Ingot
+item.SoftiumIngot.name=Softium Ingot
+item.Gemium.name=Gemium
+item.BagelliumIngot.name=Bagellium Ingot
+item.CakiumIngot.name=Cakium Ingot
+item.PigoliumGem.name=Pigolium
+item.MediumIngot.name=Medium Ingot
+item.NetherStarIngot.name=Nether Star Ingot
+        
+item.Coalium.name=Coalium
+
+item.WeakiumSword.name=Weakium Sword
+item.PurpliniumSword.name=Purplinium Sword
+item.OreiteSword.name=Oreite Sword
+item.SoftiumSword.name=Softium Sword
+item.GemiumSword.name=Gemium Sword
+item.BagelliumSword.name=Bagellium Sword
+item.CakiumSword.name=Cakium Sword
+item.PigoliumSword.name=Pigolium Sword
+item.MediumSword.name=Medium Sword
+item.NetherStarSword.name=Nether Star Sword
+
+item.WeakiumAxe.name=Weakium Axe
+item.PurpliniumAxe.name=Purplinium Axe
+item.OreiteAxe.name=Oreite Axe
+item.SoftiumAxe.name=Softium Axe
+item.GemiumAxe.name=Gemium Axe
+item.BagelliumAxe.name=Bagellium Axe
+item.CakiumAxe.name=Cakium Axe
+item.PigoliumAxe.name=Pigolium Axe
+item.MediumAxe.name=Medium Axe
+item.NetherStarAxe.name=Nether Star Axe
+
+item.WeakiumShovel.name=Weakium Shovel
+item.PurpliniumShovel.name=Purplinium Shovel
+item.OreiteShovel.name=Oreite Shovel
+item.SoftiumShovel.name=Softium Shovel
+item.GemiumShovel.name=Gemium Shovel
+item.BagelliumShovel.name=Bagellium Shovel
+item.CakiumShovel.name=Cakium Shovel
+item.PigoliumShovel.name=Pigolium Shovel
+item.MediumShovel.name=Medium Shovel
+item.NetherStarShovel.name=Nether Star Shovel
+
+item.WeakiumPickaxe.name=Weakium Pickaxe
+item.PurpliniumPickaxe.name=Purplinium Pickaxe
+item.OreitePickaxe.name=Oreite Pickaxe
+item.SoftiumPickaxe.name=Softium Pickaxe
+item.GemiumPickaxe.name=Gemium Pickaxe
+item.BagelliumPickaxe.name=Bagellium Pickaxe
+item.CakiumPickaxe.name=Cakium Pickaxe
+item.PigoliumPickaxe.name=Pigolium Pickaxe
+item.MediumPickaxe.name=Medium Pickaxe
+item.NetherStarPickaxe.name=Nether Star Pickaxe
+
+item.WeakiumHelmet.name=Weakium Helmet
+item.WeakiumArmor.name=Weakium Chestplate
+item.WeakiumLegs.name=Weakium Leggings
+item.WeakiumBoots.name=Weakium Boots
+
+tile.WeakiumOre.name=Weakium Ore
+tile.PurpliniumOre.name=Purplinium Ore
+tile.OreiteOre.name=Oreite Ore
+tile.SoftiumOre.name=Softium Ore
+tile.GemiumOre.name=Gemium Ore
+tile.BagelliumOre.name=Bagellium Ore
+tile.CakiumOre.name=Cakium Ore
+tile.PigoliumOre.name=Pigolium Ore
+tile.MediumOre.name=Medium Ore
+tile.NetherStarOre.name=Nether Star Ore
+
+tile.CoaliumOre.name=Coalium Ore
+tile.HardiumOre.name=Hardium Ore
+
+tile.WeakiumBlock.name=Weakium Block
+
+itemGroup.tabOres=Additional Ores

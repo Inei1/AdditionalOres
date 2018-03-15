@@ -1,0 +1,42 @@
+The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
+
+****************************
+ Powered By MCP:            
+ http://mcp.ocean-labs.de/  
+ Searge, ProfMobius, Fesh0r,
+ R4wk, ZeuX, IngisKahn      
+ MCP Data version : unknown
+****************************
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
+C:\Users\PCUser1\Desktop\minecraft modding\prebuilds\forge-1.7.10-10.13.0.1180-src\build\sources\java\inei\additionalores\AdditionalOres.java:5: warning: awt_es is internal proprietary API and may be removed in a future release
+import inei.additionalores.items.compressedingots.CompressedCakium;
+                                   ^
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+2 warnings
+
+:processResources
+:classes
+:jar
+:extractUserDev UP-TO-DATE
+:extractNatives
+:getAssetsIndex
+:getAssets
+:makeStart SKIPPED
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:genSrgs SKIPPED
+:reobf
+:assemble
+:check UP-TO-DATE
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 1 mins 13.324 secs

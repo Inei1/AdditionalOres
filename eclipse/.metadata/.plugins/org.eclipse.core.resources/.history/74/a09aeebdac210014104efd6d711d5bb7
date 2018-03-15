@@ -1,0 +1,42 @@
+package inei.additionalores.machines;
+
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
+import net.minecraft.block.BlockContainer;
+import net.minecraft.block.material.Material;
+import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.tileentity.TileEntity;
+import net.minecraft.util.IIcon;
+import net.minecraft.world.World;
+
+public class OreCompressor extends BlockContainer{
+	
+	@SideOnly(Side.CLIENT)
+	private IIcon iconfront;
+	
+	@SideOnly(Side.CLIENT)
+	private IIcon iconTop;
+
+	public OreCompressor() {
+		super(Material.iron);
+	}
+		
+	@SideOnly(Side.CLIENT)
+	public void registerBlockIcons(IIconRegister iconregister){
+		this.blockIcon = iconregister.registerIcon("aores:OreCompressorSide");
+		this.iconfront = iconregister.registerIcon("aores:OreCompressorFront");
+		this.iconTop = iconregister.registerIcon("aores:OreCompressorTop");
+	}
+	
+	@SideOnly(Side.CLIENT)
+	public IIcon getIcon(int side, int metadata){
+		return metadata == 0 && side == 3 ? this.iconfront : (side == metadata ? this.iconfront : this.blockIcon);
+	}
+
+	@Override
+	public TileEntity createNewTileEntity(World p_149915_1_, int p_149915_2_) {
+		
+		return null;
+	}
+
+}

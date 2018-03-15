@@ -1,0 +1,5 @@
+package inei.additionalores.fluid;
+
+public class LiquidOreTank {
+
+}

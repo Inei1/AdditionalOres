@@ -1,0 +1,7 @@
+package inei.additionalores.tileentity;
+
+import net.minecraft.tileentity.TileEntity;
+
+public class TileEntityTank extends TileEntity {
+
+}

@@ -1,0 +1,30 @@
+item.WeakiumIngot.name=Weakium Ingot
+item.PurpliniumIngot.name=Purplinium Ingot
+item.OreiteIngot.name=Oreite Ingot
+item.SoftiumIngot.name=Softium Ingot
+item.Gemium.name=Gemium Ingot
+item.BagelliumIngot.name=Bagellium Ingot
+item.CakiumIngot.name=Cakium Ingot
+item.PigoliumIngot.name=Pigolium Ingot
+item.MediumIngot.name=Medium Ingot
+item.NetherStarIngot.name=Nether Star Ingot
+        
+item.Coalium.name=Coalium
+
+item.WeakiumSword.name=Weakium Sword
+item.WeakiumAxe.name=Weakium Axe
+item.WeakiumShovel.name=Weakium Shovel
+item.WeakiumPickaxe.name=Weakium Pickaxe
+
+item.WeakiumHelmet.name=Weakium Helmet
+item.WeakiumArmor.name=Weakium Chestplate
+item.WeakiumLegs.name=Weakium Leggings
+item.WeakiumBoots.name=Weakium Boots
+
+tile.WeakiumOre.name=Weakium Ore
+tile.CoaliumOre.name=Coalium Ore
+tile.HardiumOre.name=Hardium Ore
+
+tile.WeakiumBlock.name=Weakium Block
+
+itemGroup.tabOres=Additional Ores

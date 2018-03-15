@@ -1,0 +1,25 @@
+package inei.additionalores.gui;
+
+import inei.additionalores.tileentity.TileEntityOreCompressor;
+import net.minecraft.client.gui.inventory.GuiContainer;
+import net.minecraft.entity.player.InventoryPlayer;
+import net.minecraft.inventory.Container;
+
+public class GuiOreCompressor extends GuiContainer{
+	
+	public TileEntityOreCompressor oreCompressor;
+
+	public GuiOreCompressor(InventoryPlayer inventoryPlayer, TileEntityOreCompressor entity) {
+		super(ContainerOreCompressor(inventoryPlayer, entity));
+		this.oreCompressor = entity;
+		
+	}
+
+	@Override
+	protected void drawGuiContainerBackgroundLayer(float p_146976_1_,
+			int p_146976_2_, int p_146976_3_) {
+		
+		
+	}
+
+}

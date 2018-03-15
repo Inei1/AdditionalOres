@@ -1,0 +1,17 @@
+package inei.additionalores.blocks;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class NetherStarblock extends Block {
+
+	public NetherStarblock(Material material) {
+		super(material);
+		setHardness(1.0F);
+		setBlockName("WeakiumBlock");
+		setStepSound(soundTypePiston);
+        setHarvestLevel("pickaxe", 0);
+        setBlockTextureName("aores:WeakiumBlock");
+	}
+
+}

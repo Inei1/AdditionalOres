@@ -1,0 +1,8 @@
+package inei.additionalores.ingots;
+
+import net.minecraft.item.Item;
+
+public class NetherStarIngot extends Item {
+	
+
+}

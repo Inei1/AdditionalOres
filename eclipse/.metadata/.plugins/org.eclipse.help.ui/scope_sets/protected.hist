@@ -1,0 +1,6 @@
+#Thu Jul 31 12:07:51 PDT 2014
+__DEFAULT__=false
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
+org.eclipse.help.ui.localSearch.master=true
+expression=protected

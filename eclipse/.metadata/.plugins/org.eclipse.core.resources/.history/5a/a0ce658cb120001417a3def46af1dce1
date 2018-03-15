@@ -1,0 +1,8 @@
+package inei.additionalores.ores;
+
+import net.minecraft.item.Item;
+
+public class WeakiumIngot extends Item {
+	
+
+}

@@ -1,0 +1,5 @@
+package inei.additionalores.container;
+
+public class ContainerOreCompressor {
+
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aores",
+  "name": "Additional Ores",
+  "description": "Adds more ores to minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Inei1(coder)"Plau26,Eaaem(artists)],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

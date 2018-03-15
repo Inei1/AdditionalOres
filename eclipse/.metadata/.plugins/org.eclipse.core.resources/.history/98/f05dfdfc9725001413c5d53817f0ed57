@@ -1,0 +1,15 @@
+package inei.additionalores;
+
+import net.minecraft.item.ItemStack;
+import inei.additionalores.handler.RecipeHandler;
+
+public class OreDict {
+	{
+	
+	for(ItemStack ore : OreDictionary.getOres("ingotWeakiumIngot")) { 
+ 			RecipeHandler.addOreCompressorRecipe(Utils.size(ore, 8), new ItemStack(Blocks.iron_ore)); 
+ 		} 
+
+
+}
+}
